@@ -31,5 +31,5 @@ created your own Pinto plugin, let me know so that I can add it here.
 
 =head2 L<Pinto::Server>
 
-=head2 L<Dist::Zilla::Plugin::ReleaseToPinto>
+=head2 L<Dist::Zilla::Plugin::Pinto::Add>
 
