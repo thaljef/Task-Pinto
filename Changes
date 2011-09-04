@@ -1,5 +1,8 @@
 {{$NEXT}}
 
+    D::Z::Plugin::ReleaseToPinto has been renamed to
+    D::Z::Plugin::Pinto::Add
+
 0.001     2011-09-02 14:48:13 America/Los_Angeles
 
     Initial release.
