@@ -15,13 +15,11 @@ created your own Pinto plugin, let me know so that I can add it here.
 
 ## [Pinto](http://search.cpan.org/perldoc?Pinto)
 
-## [App::Pinto::Admin](http://search.cpan.org/perldoc?App::Pinto::Admin)
-
 ## [Pinto::Remote](http://search.cpan.org/perldoc?Pinto::Remote)
 
-## [App::Pinto::Remote](http://search.cpan.org/perldoc?App::Pinto::Remote)
-
 ## [Pinto::Server](http://search.cpan.org/perldoc?Pinto::Server)
+
+## [App::Pinto](http://search.cpan.org/perldoc?App::Pinto)
 
 ## [Dist::Zilla::Plugin::Pinto::Add](http://search.cpan.org/perldoc?Dist::Zilla::Plugin::Pinto::Add)
 
