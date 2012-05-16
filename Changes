@@ -1,5 +1,8 @@
 {{$NEXT}}
 
+    Now includes App::Pinto.  App::Pinto::Admin and
+    App::Pinto::Remote are no longer supported.
+
 0.002     2011-09-03 23:44:35 America/Los_Angeles
 
     D::Z::Plugin::ReleaseToPinto has been renamed to
