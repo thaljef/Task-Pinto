@@ -23,13 +23,11 @@ created your own Pinto plugin, let me know so that I can add it here.
 
 =head2 L<Pinto>
 
-=head2 L<App::Pinto::Admin>
-
 =head2 L<Pinto::Remote>
 
-=head2 L<App::Pinto::Remote>
-
 =head2 L<Pinto::Server>
+
+=head2 L<App::Pinto>
 
 =head2 L<Dist::Zilla::Plugin::Pinto::Add>
 
